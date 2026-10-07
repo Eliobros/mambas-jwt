@@ -1,0 +1,14 @@
+{
+  "nome": "mambas-jwt",
+  "versao": "1.0.1",
+  "descricao": "Biblioteca de JWT  em MambaScript",
+  "autor": "eliobros_tech",
+  "principal": "index.ms",
+  "palavrasChave": [],
+  "licenca": "MIT",
+  "dependencias": {},
+  "mamba": {
+    "minVersion": "2.28.3",
+    "tipo": "module"
+  }
+}
